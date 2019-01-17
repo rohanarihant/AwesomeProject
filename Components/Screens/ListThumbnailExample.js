@@ -41,7 +41,6 @@ export default class ListThumbnailExample extends Component {
         } 
     }
     render() {
-        {{this.state.ModelList}}
         return (
             <Container>
                 <Content>
